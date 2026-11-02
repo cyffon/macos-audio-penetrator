@@ -70,4 +70,4 @@ Xcodeを別の場所にインストールしている場合は、`DEVELOPER_DIR`
 
 失敗理由はXcodeのデバッグコンソール、またはmacOSの「コンソール」アプリで確認できます。ログのsubsystemは`cyffon.macos-audio-penetrator`、categoryは`AudioRouting`です。
 
-ビルドは確認済みです。実機での音声転送は未確認です。
+ビルド・実機での音声転送を確認済みです。
